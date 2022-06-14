@@ -1,0 +1,26 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status,#start,#number_object
+{
+font-size: 18px;
+}
+
+body
+{
+background-position: center;
+background-size: cover;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+canvas
+{
+box-shadow: 10px 10px 10px gray;
+border-radius: 10px;
+margin-top: 100px;
+}
